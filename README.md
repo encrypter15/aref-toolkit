@@ -1,4 +1,5 @@
 # AREF-Toolkit (Prometheus)
+![AREF Logo](aref-logo.jpg)
 Author: Encrypter15  
 Email: encrypter15@gmail.com  
 Version: 1.12  
