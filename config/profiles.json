@@ -1,0 +1,16 @@
+{
+  "default": {
+    "threads": 4,
+    "timeout": 10,
+    "cloud_providers": ["aws", "gcp"],
+    "ml_feeds": ["cve", "exploitdb"],
+    "cache_ttl": 3600
+  },
+  "aggressive": {
+    "threads": 8,
+    "timeout": 5,
+    "cloud_providers": ["aws", "gcp", "azure"],
+    "ml_feeds": ["cve", "exploitdb"],
+    "cache_ttl": 1800
+  }
+}
